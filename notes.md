@@ -201,6 +201,10 @@ I would also love to be able to do Ableism and Etiquette well in this course.
 1. [Small Teaching™️](https://www.wiley.com/en-us/shop/general-introductory-education/small-teaching-everyday-lessons-from-the-science-of-learning-2nd-edition-p-9781119755548)
     1. focus on minor course changes
 
+## Work Session
+
+
+
 ## Action Items
 
 * [ ] find the Teaching Accessibly resources
