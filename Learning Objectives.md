@@ -103,3 +103,7 @@
 
 - **Identifying Accessibility Barriers in  Emerging Technologies**: Students should be able to identify the accessibility implications of emerging technologies. They should be able to recognize the unique accessibility challenges that emerging technologies pose for disabled people.
 
+## Acknowledgements
+
+* TeachAccess
+* [ ] most up-to-date Citation(s) needed

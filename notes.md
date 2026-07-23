@@ -163,7 +163,7 @@ In our intro to web dev (I teach it frequently, but often other faculty members 
 
 I would also love to be able to do Ableism and Etiquette well in this course.
 
-KA2 Accessibility Design:
+#### KA2 Accessibility Design:
 
 * Design Accessible Software
 * Design Guidelines and Knowledge
@@ -171,7 +171,7 @@ KA2 Accessibility Design:
         * what's next after person-first? (I think my honors student has proposed "identity-first" https://autisticadvocacy.org/about-asan/identity-first-language/ )does anyone have any suggested materials?
 * Design for Assistive Technology Users
 
-KA3 A11y Implementation
+#### KA3 A11y Implementation
 
 * ARIA
     * ARIA demos (not just requirements)
@@ -181,7 +181,7 @@ KA3 A11y Implementation
     * typo? "Students should know about an assistive technology to be able to create documentation"
 * AT Architecture
 
-KA4 A11y Eval
+#### KA4 A11y Eval
 
 * Automated Accessibility Testing
 * Testing Reports
@@ -190,10 +190,27 @@ KA4 A11y Eval
     * Testing with Assistive Technology
 * Testing Tools
 
-KA5 Accessibility Profession and Continuous Learning
+#### KA5 Accessibility Profession and Continuous Learning
 
 
-# Action Items
+## Action Items
 
-* switch navigation in browser?
-* video demos or in-class demos of with/without a11y for web
+* [ ] find the Teaching Accessibly resources
+    * [ ] ____ that are visible when projected with too much lighting
+        * [ ] slide themes
+        * [ ] IDE themes
+* [ ] switch navigation in browser?
+    * [ ] mobile
+        * [ ] [android](https://developer.android.com/guide/topics/ui/accessibility/testing#switch-access)
+        * [ ] [iOS](https://support.apple.com/guide/iphone/intro-to-switch-control-iphc9d32b862/ios)
+* [ ] video demos or in-class demos of with/without a11y for web
+
+### Contact Teach Access
+
+* [ ] might they consider the "What we're not" page
+    * [ ] bonus points if it links out to places that are those things
+        * [ ] e.g. teaching accessibly
+* [ ] typo in KA3.5?
+* [ ] add more links to the demos (end of day 1 slides), e.g. 
+    * [ ] https://support.apple.com/guide/mac-help/use-voice-control-commands-mh40719/mac
+    * [ ] https://support.microsoft.com/en-us/accessibility/windows/voice-access/use-voice-access-to-control-your-pc-author-text-with-your-voice
