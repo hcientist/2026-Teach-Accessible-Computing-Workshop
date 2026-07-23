@@ -190,8 +190,16 @@ I would also love to be able to do Ableism and Etiquette well in this course.
     * Testing with Assistive Technology
 * Testing Tools
 
-#### KA5 Accessibility Profession and Continuous Learning
+### CS 347 (Full Stack Web Development)
 
+#### KA4: Accessibility Evaluation
+
+- **Automated Accessibility Testing**: Students should recognize and use automated accessibility testing tools, such as the open source accessibility testing engine Axe and the web evaluation suite WAVE.
+
+## Intentional Pedagogy
+
+1. [Small Teaching™️](https://www.wiley.com/en-us/shop/general-introductory-education/small-teaching-everyday-lessons-from-the-science-of-learning-2nd-edition-p-9781119755548)
+    1. focus on minor course changes
 
 ## Action Items
 
@@ -204,6 +212,9 @@ I would also love to be able to do Ableism and Etiquette well in this course.
         * [ ] [android](https://developer.android.com/guide/topics/ui/accessibility/testing#switch-access)
         * [ ] [iOS](https://support.apple.com/guide/iphone/intro-to-switch-control-iphc9d32b862/ios)
 * [ ] video demos or in-class demos of with/without a11y for web
+* [ ] what's the difference in macOS between:
+    * settings --> keyboard --> `Keyboard navigation`
+    * settings --> a11y --> keyboard --> `Full Keyboard Access`
 
 ### Contact Teach Access
 
@@ -214,3 +225,7 @@ I would also love to be able to do Ableism and Etiquette well in this course.
 * [ ] add more links to the demos (end of day 1 slides), e.g. 
     * [ ] https://support.apple.com/guide/mac-help/use-voice-control-commands-mh40719/mac
     * [ ] https://support.microsoft.com/en-us/accessibility/windows/voice-access/use-voice-access-to-control-your-pc-author-text-with-your-voice
+* [ ] any suggestions about finding external contacts
+    * [ ] a11y experts, people with disabilities
+        * [ ] to speak to students generally
+        * [ ] to give give input/feedback/critique of research
