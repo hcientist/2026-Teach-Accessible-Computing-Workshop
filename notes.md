@@ -10,7 +10,7 @@
 
 * the future will be as inaccessible as we build it
 * most faculty don't feel sufficiently knowledgeable/resourced to teach it
-* > 1B people live with a disability
+* \> 1B people live with a disability
 
 ### Introductions
 
